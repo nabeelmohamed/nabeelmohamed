@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 👯 I’m looking to collaborate on [open source contributions which would improve the devOps community]
 - 💬 Ask me about [cloud solutions and devops ideas]
 - 📫 How to reach me: [mohamednabeel321@gmail.com]
-## Badges
+## Badges🥉🎖️🏅
 [![An image of @nabeelmohamed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabeelmohamed)](https://holopin.io/@nabeelmohamed)
 ## 🛠 Skills
 
